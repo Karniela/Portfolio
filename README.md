@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+
 # Portfolio
-Portfolio built with Bootstrap and React
-=======
+
+# Portfolio built with Bootstrap and React
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -60,9 +62,6 @@ Portfolio built with Bootstrap and React
       <a href="#showcase-">Showcase 🚀</a>
     </li>
     <li>
-      <a href="#versão-em-português-brazil">Versão em Português :brazil:</a>
-    </li>
-    <li>
       <a href="#notice">Notice</a>
     </li>
     <li>
@@ -74,7 +73,6 @@ Portfolio built with Bootstrap and React
 # About the project
 
 [![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
-
 
 ## Technology stack 🛠️
 
@@ -164,12 +162,12 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
 10. To change the thumbnail image:
 
-    - Navigate to the "public" folder.  
-    - There you will see "social-image.png".  
-    - Delete it.   
-    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
-    
-   Next time if you make changes, repeat from step 8.
+    - Navigate to the "public" folder.
+    - There you will see "social-image.png".
+    - Delete it.
+    - Take a screenshot of your version and rename it "social-image.png" and place it there.
+
+Next time if you make changes, repeat from step 8.
 
 Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 
@@ -239,17 +237,4 @@ Have you changed something in the code to create your own version? Feel free to 
     </td>
   </tr>
 </table>
-
-# Versão em Português :brazil:
-
-Esse projeto foi traduzido para português! Se você gostou dele e quer criar a sua própria versão, confira o repositório do [@tashima42](https://github.com/tashima42) em [https://github.com/Tashima42/home](https://github.com/Tashima42/home).
-Novas contribuições e revisões na tradução são muito bem vindas!
-
-# Notice:
-
-This project has been **archived**. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
-
-# Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
 >>>>>>> portfolio
